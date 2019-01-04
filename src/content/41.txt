@@ -1,0 +1,10 @@
+  </div>
+                            </a>
+                        </li>
+                        <li class="slide-item info-block">
+                            <a href="https://www.douban.com/note/692498178/">
+                                <div class="cover" style="background-image: url(https://img3.doubanio.com/view/note/l/public/p54585403.jpg)"></div>
+                                <div class="content">
+                                    <span class="title">饮馔：北平味儿不只是流动的盛宴</span>
+                                    <span class="meta">联合读创</span>
+                                    <p class="abstract">何以遣有生之涯 书画界有溥心畬、张大千、黄君璧为“渡海三家”之说，而京派掌故界，我以齐如山、唐鲁孙、夏元瑜为“渡海三家”，其中，谈吃以唐鲁孙最为耀眼。 唐鲁孙的祖父志锐是清末的伊犁将军，固守儒家君臣...

@@ -1,0 +1,10 @@
+  </div>
+                            </a>
+                        </li>
+                        <li class="slide-item info-block">
+                            <a href="https://book.douban.com/review/9696016/">
+                                <div class="cover" style="background-image: url(https://img1.doubanio.com/view/subject/l/public/s29891869.jpg)"></div>
+                                <div class="content">
+                                    <span class="title">真实的晚清军政生活，比我们想象得有趣！</span>
+                                    <span class="meta">享读者</span>
+                                    <p class="abstract">晚清以来，随着鸦片战争的落败，西方国家用坚船利炮打开了大清王朝闭关锁国近百年的大门。国难当头，万马齐喑，在这一时期有许多忠臣良将纷纷涌现。而在此中不得不提的，便是大名鼎鼎的“晚清中兴四大名臣”——...
